@@ -11,7 +11,7 @@
 <!-- jQuery --> 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <!-- Slider -->		
-<script defer src='js/jquery.flexslider-min.js'></script>
+<?php if ($active_page=="Inicio") echo " <script defer src='js/jquery.flexslider-min.js'></script> "; ?>
 <!-- Menú táctil -->
 <script src="js/jquery.dlmenu.js"></script>
 <!-- Plugin html5form -->
@@ -20,5 +20,6 @@
 <script src="js/funciones.js"></script>
 <!-- Efectos touch -->
 <script src="js/toucheffects.js"></script>
+<?php include_once("analyticstracking.php") ?>
 </body>
 </html>

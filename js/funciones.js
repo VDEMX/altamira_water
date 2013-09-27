@@ -12,8 +12,8 @@ function inicio ()
 		//agregar la clase .active al boton al que hicimos click:
 		$(this).addClass("active");
 		//esconder el mapa
-		$("#ranimg, #Table_01, #map, #productos-nuevos, #contacto, #acercade, #fotovoltaicos, #ax, #federatas").hide();
-		$("iframe").show();
+		$("#ranimg, #Table_01, #productos-nuevos, #contacto, #acercade, #ax, #servicios").hide();
+		$("#iframe").show();
 	});
 	//acordión del menú táctil
 	$('ul').accordion();
@@ -24,43 +24,6 @@ function inicio ()
         responseDiv : '#respuesta',
         allBrowsers: true,  
     }); 
-    //pestañas
-   $(".tab").click(function tabs(){
-   //quitar la clase .active a la pestaña que la tenga:
-      $(".active").removeClass("active");
-   //agregar la clase .active la pestaña que hicimos click:
-   $(this).addClass("active");
-   });
-    $('.sec-1').click(
-      function()
-      {
-            window.location = '/aviso-nov-2012';
-      }
-   );
-   $('.sec-2').click(
-      function()
-      {
-            window.location = '/aviso-nov-2012#sec-2';
-      }
-   );
-   $('.sec-02').click(
-      function()
-      {
-            window.location = '/aviso-nov-2012#sec-02';
-      }
-   );
-   $('.sec-6').click(
-      function()
-      {
-            window.location = '/aviso-nov-2012#sec-6';
-      }
-   );
-   $('.sec-8').click(
-      function()
-      {
-            window.location = '/aviso-nov-2012#sec-8';
-      }
-   );
 }
 
 if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)))
