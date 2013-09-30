@@ -1,5 +1,4 @@
 <?php $active_page="productos"; ?>
-<?php $active_page="Inicio"; ?>
 <?php include("head.php"); ?>
  		<title><?php echo "$nombre"?> | Serie A5.5X</title>
  		<meta name="description" content="dimenciones, tabla de especificaciones y curvas de rendimientos de las bombas centrífugas multietapas verticales en línea (conexiones de succión y descarga al mismo nivel). Por su amplio rango de capacidades, versatilidad y las grandes ventajas que ofrece en su facilidad de mantenimiento, sus bajos costos de operación, su probada eficiencia y sus componentes de alta tecnología la hacen una motobomba de calidad superior para las aplicaciones de manejo de agua y diversos líquidos.">
@@ -26,7 +25,7 @@
  	<img src="images/a55x-curvas_02.jpg" alt="a55x-curvas_02">
  	<img src="images/a55x-curvas_04.jpg" alt="a55x-curvas_04">
  	<img src="images/a55x-curvas_05.jpg" alt="a55x-curvas_05">
- 	<a class="button" href="bombas-AX.php">Regresar</a>
+ 	<a class="button" href="bombas-AX.php"><span class="icon icon-atras"></span>Regresar</a>
 	<div class="clear"></div>
 	</section>
  	
