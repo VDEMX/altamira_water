@@ -7,12 +7,12 @@ function inicio ()
 	});
 	//botones para el iframe
 	$(".boton").click(function toggle(){
-		//quitar la clase .active al boton que la tenga:
+		//quitar todas las clases .active
 		$(".active").removeClass("active");
 		//agregar la clase .active al boton al que hicimos click:
 		$(this).addClass("active");
 		//esconder el mapa
-		$("#ranimg, #Table_01, #productos-nuevos, #contacto, #acercade, #ax, #servicios").hide();
+		$("#ranimg, #Table_01, #productos-nuevos, #contacto, #acercade, #ax, #servicios, #map, #federatas").hide();
 		$("#iframe").show();
 	});
 	//acordión del menú táctil
@@ -23,9 +23,10 @@ function inicio ()
         messages : 'es', // Opciones 'en', 'es', 'it', 'de', 'fr', 'nl', 'be', 'br'
         responseDiv : '#respuesta',
         allBrowsers: true,  
-    }); 
+    });
 }
 
+// Scripts para iOS
 if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)))
 {
 // Ocultar la barra de dirreciones en iOS
@@ -46,5 +47,5 @@ MBP.scaleFix();
 // Respond.js
 yepnope({
 	test : Modernizr.mq('(only all)'),
-	nope : ['js/respond.min.js']
+	nope : ['respond.min.js']
 });

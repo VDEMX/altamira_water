@@ -11,7 +11,7 @@
  
  	<?php include("header.php"); ?>
  	
- 	<section id="productos-nuevos" class="content active">
+ 	<section id="productos-nuevos" class="active">
  	<h2 class="titulo">Nuevos productos</h2>
 	            <section class="container demo-3">
 			<ul class="grid cs-style-4">
@@ -22,7 +22,7 @@
 							<h3>F-Drive</h3>
 							<span>Variador de frecuencia</span>
 							<img src="images/logo-hc.png" alt="HidroControl">
-							<a href="/fdrive">Ver producto</a>
+							<a href="/fdrive"><div class="icon icon-ojo"></div> Ver producto</a>
 						</figcaption>
 					</figure>
 				</li>
@@ -33,7 +33,7 @@
 							<h3>Procontrol</h3>
 							<span>Control de sistemas de presión</span>
 							<img src="images/logo-hc.png" alt="HidroControl">
-							<a href="/procontrol">Ver producto</a>
+							<a href="/procontrol"><div class="icon icon-ojo"></div> Ver producto</a>
 						</figcaption>
 					</figure>
 				</li>
@@ -44,7 +44,7 @@
 							<h3>Pro-X (100 psi)</h3>
 							<span>Tanques precargados para sistemas hidroneumáticos</span>
 							<img src="images/logo-altamira.png" alt="Altamira">
-							<a class="boton" href="vde/pro-x.html" target="contenido">Ver producto</a>
+							<a class="boton" href="vde/pro-x.html" target="contenido"><div class="icon icon-ojo"></div> Ver producto</a>
 						</figcaption>
 					</figure>
 				</li>
@@ -55,7 +55,7 @@
 							<h3>Pro-XL (125 psi)</h3>
 							<span>Tanques precargados para sistemas hidroneumáticos</span>
 							<img src="images/logo-altamira.png" alt="Altamira">
-							<a class="boton" href="vde/pro-xl.html" target="contenido">Ver producto</a>
+							<a class="boton" href="vde/pro-xl.html" target="contenido"><div class="icon icon-ojo"></div> Ver producto</a>
 						</figcaption>
 					</figure>
 				</li>
@@ -66,7 +66,7 @@
 							<h3>Etapa 2</h3>
 							<span>Tratamiento para su piscina</span>
 							<img src="images/logo-pandapura.png" alt="PandaPura">
-							<a class="boton" href="vde/quimicos.html" target="contenido">Ver producto</a>
+							<a class="boton" href="vde/quimicos.html" target="contenido"><div class="icon icon-ojo"></div> Ver producto</a>
 						</figcaption>
 					</figure>
 				</li>
@@ -77,7 +77,7 @@
 							<h3>Altapres</h3>
 							<span>Bomba multietapas horizontales para alta presión</span>
 							<img src="images/logo-altamira.png" alt="Altamira">
-							<a class="boton" href="vde/altapres2.html" target="contenido">Ver producto</a>
+							<a class="boton" href="vde/altapres2.html" target="contenido"><div class="icon icon-ojo"></div> Ver producto</a>
 						</figcaption>
 					</figure>
 				</li>
@@ -88,7 +88,7 @@
 							<h3>Scala</h3>
 							<span>Bomba de superficie multietapas</span>
 							<img src="images/logo-altamira.png" alt="Altamira">
-							<a class="boton" href="vde/scala.html" target="contenido">Ver producto</a>
+							<a class="boton" href="vde/scala.html" target="contenido"><div class="icon icon-ojo"></div> Ver producto</a>
 						</figcaption>
 					</figure>
 				</li>
@@ -99,7 +99,7 @@
 							<h3>Supra</h3>
 							<span>Bombas para recircular en piscinas</span>
 							<img src="images/logo-aquapak.png" alt="Aqua Pak">
-							<a class="boton" href="vde/supra.html" target="contenido">Ver producto</a>
+							<a class="boton" href="vde/supra.html" target="contenido"><div class="icon icon-ojo"></div> Ver producto</a>
 						</figcaption>
 					</figure>
 				</li>
@@ -110,7 +110,7 @@
 							<h3>Sigma</h3>
 							<span>Bombas sumergibles para achique</span>
 							<img src="images/logo-aquapak.png" alt="Aqua Pak">
-							<a class="boton" href="http://vde.com.mx/vde/sigma.html" target="contenido">Ver producto</a>
+							<a class="boton" href="http://vde.com.mx/vde/sigma.html" target="contenido"><div class="icon icon-ojo"></div> Ver producto</a>
 						</figcaption>
 					</figure>
 				</li>
@@ -121,7 +121,7 @@
 							<h3>Silver</h3>
 							<span>Bombas para recircular en piscinas</span>
 							<img src="images/logo-aquapak.png" alt="Aqua Pak">
-							<a class="boton" href="vde/silver.html" target="contenido">Ver producto</a>
+							<a class="boton" href="vde/silver.html" target="contenido"><div class="icon icon-ojo"></div> Ver producto</a>
 						</figcaption>
 					</figure>
 				</li>

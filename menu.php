@@ -1,6 +1,6 @@
 <!--[if (gt IE 7)&(lt IE 10)]><ul><![endif]-->
 <!--[if !(gt IE 7)&(lt IE 10)]><!--> <ul class="accordion"> <!--<![endif]-->
-   <li <?php if ($active_page=="Inicio") echo " class='active'"; ?> id="inicio"><a href="/inicio"><span>Inicio</span></a></li>
+   <li <?php if ($active_page=="Inicio") echo " class='active'"; ?>><a href="/inicio"><span>Inicio</span></a></li>
    <li <?php if ($active_page=="nosotros") echo " class='active'"; ?>><a href="/nosotros"><span>La empresa</span></a></li>
    <li <?php if ($active_page=="productos") echo " class='active has-sub'"; elseif($active_page!=="productos") echo "class='has-sub'"?>><a><span>Productos</span></a>
       <ul>

@@ -9,7 +9,7 @@
  <body>
  <section id="container">
  	<?php include("header.php"); ?>	
- 	<section id="contacto" class="content active">
+ 	<section id="contacto" class="active">
  	<h2 class="titulo">Contáctenos</h2>
 		<p>Si desea información de nuestros productos y servicios, mándenos sus datos en el formulario y a la brevedad nuestro departamento de ventas se pondrá en contacto con usted. También puede utilizarlo para hacernos llegar cualquier duda o sugerencia.</p>
 		<form action="send.php" method="post" id="myform">

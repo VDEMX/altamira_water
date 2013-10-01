@@ -11,7 +11,7 @@
  	
  	<?php include("header.php"); ?>
  	
- 	<section id="map" class="content active">
+ 	<section id="map" class="active">
 
 	</section>
  	

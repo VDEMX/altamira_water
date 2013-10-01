@@ -11,7 +11,7 @@
  	
  	<?php include("header.php"); ?>
  	
- 	<section id="e404" class="content active">
+ 	<section id="e404" class="active">
 		<div class="box">
 			
 		</div>

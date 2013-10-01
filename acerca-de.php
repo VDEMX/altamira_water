@@ -7,11 +7,12 @@
  	</head>
  	
  <body>
+
  <section id="container">
  
  	<?php include("header.php"); ?>
  	
- 	<section id="acercade" class="content active">
+ 	<section id="acercade">
  		<h2 class="titulo">Acerca de Altamira Water Ltda.</h2>
  		<p>Empresa fundada en noviembre de 2009, y su giro consiste en diseñar, producir y distribuir
 al mayoreo sistemas y equipos de alta calidad y tecnología de punta para el manejo del

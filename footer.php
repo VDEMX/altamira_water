@@ -11,7 +11,7 @@
 <!-- jQuery --> 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <!-- Slider -->		
-<?php if ($active_page=="Inicio") echo " <script defer src='js/jquery.flexslider-min.js'></script> "; ?>
+<script defer src='js/jquery.flexslider-min.js'></script>
 <!-- Menú táctil -->
 <script src="js/jquery.dlmenu.js"></script>
 <!-- Plugin html5form -->

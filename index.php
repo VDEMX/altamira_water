@@ -8,7 +8,7 @@
  <body>
   <section id="container">
  	<?php include("header.php"); ?>
- 	<section id="ranimg" class="content">
+ 	<section id="ranimg" class="active">
     <!-- slider -->
 	<div class="flexslider">
 	  <ul class="slides">
