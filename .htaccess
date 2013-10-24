@@ -1,31 +1,21 @@
 DirectoryIndex index.php
-RewriteEngine On
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule  ^inicio$ /index.php [QSA,L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule  ^procontrol$ /pro-control.php [QSA,L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule  ^oficinas$ /sucursales.php [QSA,L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule  ^novedades$ /productos-nuevos.php [QSA,L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule  ^fdrive$ /f-drive.php [QSA,L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule  ^nosotros$ /acerca-de.php [QSA,L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule  ^servicios$ /servicios-vde.php [QSA,L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule  ^energiarenovable$ /fotovoltaicos.php [QSA,L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule  ^ax$ /bombas-AX.php [QSA,L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule  ^contacto$ /formulario.php [QSA,L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule  ^tipo-de-cambio$ /tipo-d-cambio.php [QSA,L]
+ErrorDocument 404 /error-404.php
+AddDefaultCharset utf-8
 
+RewriteEngine On
+RewriteRule  ^inicio$ /index.php [QSA,L]
+RewriteRule  ^procontrol$ /pro-control.php [QSA,L]
+RewriteRule  ^oficinas$ /sucursales.php [QSA,L]
+RewriteRule  ^novedades$ /productos-nuevos.php [QSA,L]
+RewriteRule  ^fdrive$ /f-drive.php [QSA,L]
+RewriteRule  ^nosotros$ /acerca-de.php [QSA,L]
+RewriteRule  ^servicios$ /servicios-vde.php [QSA,L]
+RewriteRule  ^energiarenovable$ /fotovoltaicos.php [QSA,L]
+RewriteRule  ^ax$ /bombas-AX.php [QSA,L]
+RewriteRule  ^contacto$ /formulario.php [QSA,L]
+RewriteRule  ^tipo-de-cambio$ /tipo-d-cambio.php [QSA,L]
+RewriteRule  ^kor$ /serie-kor.php [QSA,L]
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule ^(.*)$ $1.php
-
-ErrorDocument 404 /error-404.php

@@ -10,6 +10,7 @@
 @negro:black;
 @rojo:#cd112d;
 @verde:#6f9e46;
+@verde-altamira:#005357;
 @mobile:320px;
 @tablet:481px;
 @desktop:769px;
@@ -278,6 +279,7 @@ font-size: ~"@{remValue}rem";
 .b{font-weight: bold;}
 .tc{text-align: center;}
 .rojo{color: @rojo;}
+.verde-altamira{color: @verde-altamira!important;}
 .mt1em{margin-top: 1em!important;}
 
 
@@ -1626,7 +1628,7 @@ iframe{
 	span{margin-left: 1em;}
 	h2{
 		margin: 1em 0.7em 0; 
-		display:block;
+		.left;
 	}
 	h3{.font-size(16); margin: 1em 0.7em 0.3em;}
 	section{
@@ -1650,10 +1652,14 @@ iframe{
 		ul{.font-size(9);}
 	}
 	.button{
-		margin-left: 2em;
+		margin: 1em 1em 0;
 		color: @blanco;
 		padding-left: 1.5em;
 		position: relative;
+		.left;
+		.icon{
+			margin: 0 5px;
+		}
 		.icon-atras {
 			margin: 0;
 			.font-size(14);
@@ -1737,7 +1743,7 @@ iframe{
 		text-align: center;
 		width: 100%;
 		color: black;
-		margin: 1em 0 0;
+		margin: 0.5em 0 0;
 	}
 	p {
 		display: inline-block;
@@ -1755,25 +1761,23 @@ iframe{
 	margin-bottom: 25px;
  	padding-bottom: 50px;
  	position: absolute;
- 	width: 96%;
+ 	width: 100%;
  	@media only screen and (min-width: @mobile){
 		height: 110px;
 		margin-bottom: 10px;
 		padding-bottom: 5px;
-		width: 90%;
 	}
 	@media only screen and (min-width: @tablet){
 		height: 280px;
 		margin-bottom: 25px;
 		padding-bottom: 50px;
-		width: 96%;
 	}
 }
 .cover_pan{
 	background: url(../images/covers.jpg) repeat-x center top;
 	background-size: 71% auto;
-	height:274px;
-	margin-left:1px; 
+	height:285px;
+	margin-left:1px;
 	display: inline-block;
 	vertical-align: top;
 	width:99.5%;
@@ -1783,7 +1787,7 @@ iframe{
 		height: 102px;
 	}
 	@media only screen and (min-width: @tablet){
-		height:274px;
+		height:285px;
 	}
 }
 
