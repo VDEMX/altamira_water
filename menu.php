@@ -7,7 +7,8 @@
          <li class="has-sub"><a href="#"><span>Bombas Sumergibles para Pozo</span></a>
             <ul>
                <li><a href="/kor"><span>Altamira Serie KOR</span></a></li>
-               <li class="boton"><a href="vde/bom_sum_aqua.html" target="contenido"><span>Aqua Pak (Serie Max y Task)</span></a></li>
+               <li><a href="/max"><span>Aqua Pak Serie MAX</span></a></li>
+               <li class="boton"><a href="vde/bom_sum_aqua.html" target="contenido"><span>Aqua Pak Task</span></a></li>
             </ul>
          </li>
          <li class="has-sub"><a href="#"><span>Motores Sumergibles</span></a>
