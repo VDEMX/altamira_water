@@ -75,4 +75,5 @@
 <h2>INNOVACIÓN EN SU SISTEMA DE BOMBEO</h2>
  		<img src="images/max-seccionada.jpg" alt="Bomba seccionada">
 	</section>
+	<?php include("iframe.php"); ?>
  	<?php include("footer.php"); ?>

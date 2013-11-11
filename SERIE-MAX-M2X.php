@@ -24,4 +24,5 @@
  			Regresar
  		</a>
 	</section>
+ 	<?php include("iframe.php"); ?>
  	<?php include("footer.php"); ?>
