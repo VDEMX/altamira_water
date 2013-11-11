@@ -16,6 +16,7 @@ RewriteRule  ^contacto$ /formulario.php [QSA,L]
 RewriteRule  ^tipo-de-cambio$ /tipo-d-cambio.php [QSA,L]
 RewriteRule  ^kor$ /serie-kor.php [QSA,L]
 RewriteRule  ^max$ /serie-max.php [QSA,L]
+RewriteRule  ^task$ /serie-task.php [QSA,L]
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f

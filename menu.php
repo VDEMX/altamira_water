@@ -8,7 +8,7 @@
             <ul>
                <li><a href="/kor"><span>Altamira Serie KOR</span></a></li>
                <li><a href="/max"><span>Aqua Pak Serie MAX</span></a></li>
-               <li class="boton"><a href="vde/bom_sum_aqua.html" target="contenido"><span>Aqua Pak Task</span></a></li>
+               <li><a href="/task"><span>Aqua Pak Serie TASK</span></a></li>
             </ul>
          </li>
          <li class="has-sub"><a href="#"><span>Motores Sumergibles</span></a>
