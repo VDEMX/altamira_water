@@ -21,6 +21,7 @@ RewriteRule  ^motores$ /motores-aquapak.php [QSA,L]
 RewriteRule  ^motores-altamira$ /serie-r.php [QSA,L]
 RewriteRule  ^cable$ /cable-sumergible.php [QSA,L]
 RewriteRule  ^manometro$ /manometros.php [QSA,L]
+RewriteRule  ^pres10$ /pres-10.php [QSA,L]
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
