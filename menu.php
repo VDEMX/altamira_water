@@ -13,7 +13,7 @@
          </li>
          <li class="has-sub"><a href="#"><span>Motores Sumergibles</span></a>
             <ul>
-               <li class="boton"><a href="vde/bmotoressum.html" target="contenido"><span>Altamira </span></a></li>
+               <li><a href="/motores-altamira"><span>Altamira</span></a></li>
                <li class="boton"><a href="vde/msf.html" target="contenido"><span>Franklin</span></a></li>
                <li class="last"><a href="/motores"><span>Aqua Pak</span></a></li>
             </ul>
