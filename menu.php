@@ -6,8 +6,7 @@
       <ul>
          <li class="has-sub"><a href="#"><span>Bombas Sumergibles para Pozo</span></a>
             <ul>
-               <li><a href="/kor"><span>Altamira Serie KOR (Acero Inoxidable)</span></a></li>
-               <li class="boton"><a href="vde/mba.html" target="contenido"><span>Altamira Serie BS (Hierro) y Serie T</span></a></li>
+               <li><a href="/kor"><span>Altamira Serie KOR</span></a></li>
                <li class="boton"><a href="vde/bom_sum_aqua.html" target="contenido"><span>Aqua Pak (Serie Max y Task)</span></a></li>
             </ul>
          </li>
