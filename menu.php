@@ -69,7 +69,7 @@
          						<li  class="boton"><a href="vde/wvmultiple2.html" target="contenido"><span>Water Variat - Espa</span></a></li>
          						<li  class="boton"><a href="vde/presctealtamira.html" target="contenido"><span>Altamira AX y TX</span></a></li>
          						<li  class="boton"><a href="vde/presctealtamirae.html" target="contenido"><span>Altamira - Espa</span></a></li>
-         						<li  class="boton"><a href="vde/presurizadorm.html" target="contenido"><span>Múltiple Velocidad Variable</span></a></li>
+         						<li><a href="/presion-constante"><span>Múltiple Velocidad Variable</span></a></li>
          					</ul>
          				</li>
          			</ul>
