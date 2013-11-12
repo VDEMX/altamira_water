@@ -29,6 +29,11 @@ RewriteRule  ^altapres$ /serie-altapres.php [QSA,L]
 RewriteRule  ^altapres2$ /serie-altapres2.php [QSA,L]
 RewriteRule  ^amiga$ /serie-amiga.php [QSA,L]
 RewriteRule  ^ap$ /serie-ap.php [QSA,L]
+RewriteRule  ^apf$ /serie-apf.php [QSA,L]
+RewriteRule  ^apl$ /serie-apl.php [QSA,L]
+RewriteRule  ^apld$ /serie-apld.php [QSA,L]
+RewriteRule  ^apll$ /serie-apll.php [QSA,L]
+RewriteRule  ^apt$ /serie-apt.php [QSA,L]
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
