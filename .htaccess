@@ -35,6 +35,7 @@ RewriteRule  ^apld$ /serie-apld.php [QSA,L]
 RewriteRule  ^apll$ /serie-apll.php [QSA,L]
 RewriteRule  ^apt$ /serie-apt.php [QSA,L]
 RewriteRule  ^fix$ /serie-fix.php [QSA,L]
+RewriteRule  ^job$ /serie-job.php [QSA,L]
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f

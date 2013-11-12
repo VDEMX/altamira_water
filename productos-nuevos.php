@@ -17,6 +17,17 @@
 			<ul class="grid cs-style-4">
 				<li>
 					<figure>
+						<div><img src="images/np-job.jpg" alt="JOB"></div>
+						<figcaption>
+							<h3>JOB</h3>
+							<span>Motobomba multietapas vertical</span>
+							<img src="images/logo-altamira.png" alt="Altamira">
+							<a href="/job"><div class="icon icon-ojo"></div> Ver producto</a>
+						</figcaption>
+					</figure>
+				</li>
+				<li>
+					<figure>
 						<div><img src="images/np-fdrive.jpg" alt="FDRIVE"></div>
 						<figcaption>
 							<h3>F-Drive</h3>
