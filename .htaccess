@@ -28,6 +28,7 @@ RewriteRule  ^velocidad-constante$ /presurizadores-velocidad-constante.php [QSA,
 RewriteRule  ^altapres$ /serie-altapres.php [QSA,L]
 RewriteRule  ^altapres2$ /serie-altapres2.php [QSA,L]
 RewriteRule  ^amiga$ /serie-amiga.php [QSA,L]
+RewriteRule  ^ap$ /serie-ap.php [QSA,L]
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
