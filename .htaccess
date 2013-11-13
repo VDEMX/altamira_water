@@ -44,6 +44,7 @@ RewriteRule  ^filtros-de-arena$ /filtros-arena-plastico.php [QSA,L]
 RewriteRule  ^filtros-de-arena-fibra$ /filtros-arena-fibra.php [QSA,L]
 RewriteRule  ^sigma$ /serie-sigma.php [QSA,L]
 RewriteRule  ^silver$ /serie-silver.php [QSA,L]
+RewriteRule  ^step$ /serie-step.php [QSA,L]
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
