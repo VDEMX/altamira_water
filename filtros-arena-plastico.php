@@ -45,7 +45,7 @@
  		</section>
  		<h2>TABLA DE ESPECIFICACIONES</h2>
  		<img src="images/filtros-plastico-tabla-02.gif" alt="especificaciones">
- 		<h2>DIMENSIONES</h2>
+ 		<h2 class="p100">DIMENSIONES</h2>
  		<section class="p70"><img src="images/filtros-plastico-tabla-01.gif" alt="dimensiones"></section>
  		<section class="p30"><img src="images/filtros-plastico-dim.gif" alt="dimensiones"></section>
 		<div class="clear"></div>
