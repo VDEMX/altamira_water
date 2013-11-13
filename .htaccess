@@ -46,6 +46,7 @@ RewriteRule  ^sigma$ /serie-sigma.php [QSA,L]
 RewriteRule  ^silver$ /serie-silver.php [QSA,L]
 RewriteRule  ^step$ /serie-step.php [QSA,L]
 RewriteRule  ^tx$ /serie-tx.php [QSA,L]
+RewriteRule  ^venus$ /serie-venus.php [QSA,L]
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
