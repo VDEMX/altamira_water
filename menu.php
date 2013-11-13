@@ -100,8 +100,8 @@
          	<ul>
          		<li class="has-sub"><a href="#"><span>Tableros de control</span></a>
          			<ul>
-         				<li class="boton"><a href="vde/tablerocte.html" target="contenido"><span>Tableros de Velocidad Constante</span></a></li>
-         				<li><a href="tableros-presion-constante"><span>Tableros de Velocidad Variable</span></a></li>
+         				<li><a href="/tableros-velocidad-constante"><span>Tableros de Velocidad Constante</span></a></li>
+         				<li><a href="/tableros-presion-constante"><span>Tableros de Velocidad Variable</span></a></li>
          				<li class="boton"><a href="vde/tableroincendio.html" target="contenido"><span>Tableros contra Incendio</span></a></li>
          			</ul>
          		</li>
