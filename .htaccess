@@ -50,6 +50,7 @@ RewriteRule  ^venus$ /serie-venus.php [QSA,L]
 RewriteRule  ^switch$ /switch-presion.php [QSA,L]
 RewriteRule  ^tableros-presion-constante$ /tableros-control-pc.php [QSA,L]
 RewriteRule  ^tableros-velocidad-constante$ /tableros-control.php [QSA,L]
+RewriteRule  ^acero$ /tanques-acero.php [QSA,L]
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
