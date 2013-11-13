@@ -42,6 +42,7 @@ RewriteRule  ^preskit$ /serie-pres10.php [QSA,L]
 RewriteRule  ^scala$ /serie-scala.php [QSA,L]
 RewriteRule  ^filtros-de-arena$ /filtros-arena-plastico.php [QSA,L]
 RewriteRule  ^filtros-de-arena-fibra$ /filtros-arena-fibra.php [QSA,L]
+RewriteRule  ^sigma$ /serie-sigma.php [QSA,L]
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
