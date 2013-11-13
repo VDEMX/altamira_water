@@ -17,6 +17,17 @@
 			<ul class="grid cs-style-4">
 				<li>
 					<figure>
+						<div><img src="images/Tanque_fibra.jpg" alt="Filtros de arena fibra"></div>
+						<figcaption>
+							<h3>Filtros para piscina</h3>
+							<span>Construcción en fibra de vidrio</span>
+							<img src="images/panda.png" alt="Altamira">
+							<a href="/filtros-de-arena-fibra"><div class="icon icon-ojo"></div> Ver producto</a>
+						</figcaption>
+					</figure>
+				</li>
+				<li>
+					<figure>
 						<div><img src="images/np-job.jpg" alt="JOB"></div>
 						<figcaption>
 							<h3>JOB</h3>
@@ -88,7 +99,7 @@
 							<h3>Altapres</h3>
 							<span>Bomba multietapas horizontales para alta presión</span>
 							<img src="images/logo-altamira.png" alt="Altamira">
-							<a class="boton" href="vde/altapres2.html" target="contenido"><div class="icon icon-ojo"></div> Ver producto</a>
+							<a href="/altapres2"><div class="icon icon-ojo"></div> Ver producto</a>
 						</figcaption>
 					</figure>
 				</li>
@@ -99,7 +110,7 @@
 							<h3>Scala</h3>
 							<span>Bomba de superficie multietapas</span>
 							<img src="images/logo-altamira.png" alt="Altamira">
-							<a class="boton" href="vde/scala.html" target="contenido"><div class="icon icon-ojo"></div> Ver producto</a>
+							<a href="/scala"><div class="icon icon-ojo"></div> Ver producto</a>
 						</figcaption>
 					</figure>
 				</li>
@@ -121,7 +132,7 @@
 							<h3>Sigma</h3>
 							<span>Bombas sumergibles para achique</span>
 							<img src="images/logo-aquapak.png" alt="Aqua Pak">
-							<a class="boton" href="http://vde.com.mx/vde/sigma.html" target="contenido"><div class="icon icon-ojo"></div> Ver producto</a>
+							<a class="boton" href="vde/sigma.html" target="contenido"><div class="icon icon-ojo"></div> Ver producto</a>
 						</figcaption>
 					</figure>
 				</li>
