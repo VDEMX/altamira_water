@@ -273,6 +273,8 @@ font-size: ~"@{remValue}rem";
 	}
 }
 .right{float:right;}
+.p30{width:30%;}
+.p70{width:70%;}
 .p100{width:100%;}
 .w165{width:165px;}
 .w180{width:180px;}
@@ -1641,14 +1643,25 @@ iframe{
 	}
 	h3{.font-size(16); margin: 1em 0.7em 0.3em;}
 	section{
-		width: 45.7%;
+		width: 45.5%;
 		padding: 2%;
 		margin: 0;
 		@media only screen and (min-width: @mobile){
-			width: 100%;
+			width: 96%;
+			&.p30, &.p70{	
+				display: block;
+				width: 100%;
+				padding: 0;
+			}
 		}
 		@media only screen and (min-width: @tablet){
-		    width: 45.7%;
+		    width: 45.5%;
+		    &.p30{width: 29%;}
+			&.p70{width: 70%;}
+			&.p30, &.p70{	
+				display:inline-block;    
+				vertical-align: top;
+			}
 		}
 	}
 	article{
