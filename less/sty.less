@@ -1706,6 +1706,25 @@ iframe{
 			top: 2px;
 		}
 	}
+	.caracteristicas{
+		article {
+			border-top: 0;
+			background:(@blanco - 25);
+			padding: .5em 0;
+			border-bottom: 2px solid @blanco;
+			p {
+				float: left;
+				width: 80%;
+			}
+			img{width:15%;}
+		}
+		@media only screen and (min-width: @mobile){
+			width: 96%;
+		}
+		@media only screen and (min-width: @tablet){
+		    
+		}
+	}
 }
 
 /* !Fe de ratas */
@@ -1789,6 +1808,7 @@ iframe{
 		width: 100%;
 		text-align: center;
 		color: black;
+		margin-top: 2em;
 	}
 }
 .box {
