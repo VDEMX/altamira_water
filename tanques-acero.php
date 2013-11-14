@@ -11,7 +11,7 @@
  	
  	<section id="ax" class="active">
  	<div class="cien">
- 	<h2 class="headline base">SERIE ACERO</h2>
+ 	<h2 class="headline azul">SERIE ACERO</h2>
 	 		<span>TANQUES PRECARGADOS DE DIAFRAGMA PARA SISTEMAS DE AGUA A PRESIÓN</span>
  	</div>
  		<section class="doscol">
