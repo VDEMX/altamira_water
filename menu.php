@@ -91,7 +91,14 @@
          </li>
          <li class="has-sub"><a href="#"><span>Tanques</span></a>
          	<ul>
-         		<li class="boton"><a href="vde/tanques.html" target="contenido"><span>Altamira</span></a></li>
+         		<li class="has-sub"><a href="#"><span>Altamira</span></a>
+         			<ul>
+	         			<li><a href="/acero"><span>Serie Acero</span></a></li>
+	         			<li><a href="/pro"><span>Serie Pro</span></a></li>
+	         			<li><a href="/prox"><span>Serie Pro-X</span></a></li>
+	         			<li><a href="/proxl"><span>Serie Pro-XL</span></a></li>
+         			</ul>
+         		</li>
          		<li><a href="/tanques-horizontales"><span>Aqua Pak</span></a></li>
          		<li class="boton"><a href="vde/tanquew.html" target="contenido"><span>Well-X-Trol</span></a></li>
          	</ul>

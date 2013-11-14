@@ -53,6 +53,8 @@ RewriteRule  ^tableros-velocidad-constante$ /tableros-control.php [QSA,L]
 RewriteRule  ^acero$ /tanques-acero.php [QSA,L]
 RewriteRule  ^tanques-horizontales$ /tanques-horizontales-aquapak.php [QSA,L]
 RewriteRule  ^pro$ /tanques-pro.php [QSA,L]
+RewriteRule  ^prox$ /tanques-prox.php [QSA,L]
+RewriteRule  ^proxl$ /tanques-proxl.php[QSA,L]
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
