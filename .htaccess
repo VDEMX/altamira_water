@@ -55,6 +55,7 @@ RewriteRule  ^tanques-horizontales$ /tanques-horizontales-aquapak.php [QSA,L]
 RewriteRule  ^pro$ /tanques-pro.php [QSA,L]
 RewriteRule  ^prox$ /tanques-prox.php [QSA,L]
 RewriteRule  ^proxl$ /tanques-proxl.php [QSA,L]
+RewriteRule  ^proxl$ /tubos-columna.php [QSA,L]
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
