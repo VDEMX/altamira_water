@@ -91,9 +91,9 @@
          </li>
          <li class="has-sub"><a href="#"><span>Tanques</span></a>
          	<ul>
-         		<li class="boton"><a href="vde/tanques.html" target="contenido"><span>Tanques Altamira</span></a></li>
-         		<li class="boton"><a href="vde/tanquea.html" target="contenido"><span>Tanques Aqua Pak</span></a></li>
-         		<li class="boton"><a href="vde/tanquew.html" target="contenido"><span>Tanques Well-X-Trol</span></a></li>
+         		<li class="boton"><a href="vde/tanques.html" target="contenido"><span>Altamira</span></a></li>
+         		<li><a href="/tanques-horizontales"><span>Aqua Pak</span></a></li>
+         		<li class="boton"><a href="vde/tanquew.html" target="contenido"><span>Well-X-Trol</span></a></li>
          	</ul>
          </li>
          <li class="last has-sub"><a href="#"><span>Accesorios</span></a>
