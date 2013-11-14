@@ -95,6 +95,7 @@
          			<ul>
 	         			<li><a href="/acero"><span>Serie Acero</span></a></li>
 	         			<li><a href="/pro"><span>Serie Pro</span></a></li>
+	         			<li><a href="/sky"><span>Serie Sky</span></a></li>
 	         			<li><a href="/prox"><span>Serie Pro-X</span></a></li>
 	         			<li><a href="/proxl"><span>Serie Pro-XL</span></a></li>
          			</ul>
