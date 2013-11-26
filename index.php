@@ -6,11 +6,12 @@
  		<meta name="robots" content="Index, follow">
  	</head>
  <body>
-  <section id="container">
- 	<?php include("header.php"); ?>
- 	<section id="ranimg" class="active">
-    <!-- slider -->
-	<div class="flexslider">
+	 <!--<?php include("aviso.php"); ?>-->	 
+	 <section id="container">
+	 <?php include("header.php"); ?>
+	 <section id="ranimg" class="active">
+     <!-- slider -->
+	 <div class="flexslider">
 	  <ul class="slides">
 	    <li><img src="http://vde.com.mx/images/slide-01.jpg"></li>
 	    <li><img src="http://vde.com.mx/images/slide-02.jpg"></li>

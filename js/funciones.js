@@ -24,6 +24,12 @@ function inicio ()
         responseDiv : '#respuesta',
         allBrowsers: true,  
     });
+     $('.vbox-close').click(
+      function ocultar()
+      {
+           $(".vbox-overlay").toggle();
+      }
+   );
 }
 
 // Scripts para iOS
