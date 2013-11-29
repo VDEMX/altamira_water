@@ -5,11 +5,10 @@
  		<meta name="keywords" content="<?php echo "$nombre"?>,equipos, bombeo,bombas para agua, equipos de bombeo, presurizadores, equipos hidroneumaticos, tanques, motores sumergibles, bombas sumergibles para pozo, cable sumergible, bombas altamira, bombas aquapak, bombas espa, motores sumergibles mercury, motores sumergibles tesla, motores sumergibles franklin, bombas para achique, bombas para lodos, bombas trituradoras, sistemas de riego, tanques altamira, tanques aquapak, medidores de flujo, tableros de control, valvulas, manometros, switch de presion, arrancadores, switch flotador, filtros para piscinas, sistemas de bombeo, bombas sumergibles para aguas residuales, bombas para albercas, bombas de uso domestico, bombas para hidromasaje, presurizadores múltiples, accesorios para el manejo del agua, agua a presion, villarreal, division, equipos">
  		<meta name="robots" content="Index, follow">
  	</head>
- <body>
-	 <!--<?php include("aviso.php"); ?>-->	 
+ <body> 
 	 <section id="container">
 	 <?php include("header.php"); ?>
-	 <section id="ranimg" class="active">
+	 <section id="ranimg" class="active content">
      <!-- slider -->
 	 <div class="flexslider">
 	  <ul class="slides">

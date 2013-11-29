@@ -113,7 +113,7 @@
          			</ul>
          		</li>
          		<li class="boton"><a href="vde/medidormec.html" target="contenido"><span>Medidores de Flujo</span></a></li>
-         		<li class="boton"><a href="/pres10" target="contenido"><span>Control Automático de Presión</span></a></li>
+         		<li><a href="/pres10"><span>Control Automático de Presión</span></a></li>
          		<li><a href="/cable"><span>Cable Sumergible</span></a></li>
          		<li><a href="/flotador"><span>Switch flotador</span></a></li>
          		<li><a href="/switch"><span>Switch de presión</span></a></li>
@@ -124,10 +124,9 @@
          		<li class="has-sub"><a href="#"><span>Protecciones para Motor</span></a>
          			<ul>
          				<li <?php if ($active_page=="productos") echo " class='active'"; ?>><a href="/procontrol"><span>Procontrol</span></a></li>
-         				<li><a href="vde/pro_motor.html" target="contenido"><span>Protecciones para Motores</span></a></li>
+         				<li class="boton"><a href="vde/pro_motor.html" target="contenido"><span>Protecciones para Motores</span></a></li>
          			</ul>
          		</li>
-         		<li class="boton"><a href="vde/tuboc.html" target="contenido"><span>Tubo de Columna</span></a></li>
          	</ul>
          </li>
          <li class="boton"><a href="vde/calentadors.html" target="contenido"><span>Calentador Solar</span></a></li>

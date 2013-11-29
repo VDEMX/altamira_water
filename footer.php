@@ -1,7 +1,6 @@
 <footer id="footer">
-	<section id="foot" class="hide">
-		<h2>Centro de distribución a clientes</h2>
-		<adress>Autopista a Medellín - Via Siberia Km. 3.5 (costado Norte), Centro Empresarial Metropolitano - CEM, Bodega 16 Sector II (módulo 3), Cota (Cundinamarca), Colombia. <strong>Almacén:</strong> +57 (1) 8219230 / 8219231, <strong>Fax:</strong> +57 (1) 8415573</adress>
+	<section id="foot">
+		<a href="/inicio">inicio</a> | <a href="/nosotros">La empresa</a> | <a href="/novedades">Nuevos productos</a> | <a href="/servicios">Servicios</a> | <a href="/oficinas">Oficinas de ventas</a> | <a href="/tipo-de-cambio">Tipo de cambio</a> | <a href="/contacto">Contacto</a>
 	</section>
 	<small>Altamira Water Ltda. ® 2009 - <?php echo date("Y");?>. Todos los derechos reservados.</small>
 </footer>
