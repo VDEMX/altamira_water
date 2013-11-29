@@ -1,5 +1,5 @@
 <?php $active_page="tipodecambio"; ?>
-<?php include("head.php"); ?>
+<?php include("includes/head.php"); ?>
  		<title><?php echo "$nombre"?> | Tipo de cambio</title>
  		<meta name="description" content="Tipo de cambio del Dolar">
 		<meta name="keywords" content="tipo de cambio, dolar,aviso, importante, tabla, peso, colombiano">
@@ -8,10 +8,10 @@
  	
  <body>
  <section id="container">
- 	<?php include("header.php"); ?>	
+ 	<?php include("includes/header.php"); ?>	
  	<section id="federatas" class="active">
 			<?php include("vde/colombia/tc.php"); ?>	
 	</section>
 	
- 	<?php include("iframe.php"); ?>
- 	<?php include("footer.php"); ?>
+ 	<?php include("includes/iframe.php"); ?>
+ 	<?php include("includes/footer.php"); ?>

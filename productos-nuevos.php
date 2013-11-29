@@ -1,5 +1,5 @@
 <?php $active_page="novedades"; ?>
-<?php include("head.php"); ?>
+<?php include("includes/head.php"); ?>
  		<title><?php echo "$nombre"?> | Productos nuevos</title>
  		<meta name="description" content="Productos nuevos de alta calidad con tecnología de punta">
 		<meta name="keywords" content="nuevos,productos,sistemas,equipos,alta calidad,agua, presencia, nacional, Colombia, republica">
@@ -9,7 +9,7 @@
  <body>
  <section id="container">
  
- 	<?php include("header.php"); ?>
+ 	<?php include("includes/header.php"); ?>
  	
  	<section id="productos-nuevos" class="active">
  	<h2 class="titulo">Nuevos productos</h2>
@@ -152,5 +152,5 @@
 	            
             </section>
  	
- 	<?php include("iframe.php"); ?>
- 	<?php include("footer.php"); ?>
+ 	<?php include("includes/iframe.php"); ?>
+ 	<?php include("includes/footer.php"); ?>

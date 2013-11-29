@@ -1,5 +1,5 @@
 <?php $active_page="productos"; ?>
-<?php include("head.php"); ?>
+<?php include("includes/head.php"); ?>
  		<title><?php echo "$sitio"?> | Serie Acero</title>
  		<meta name="description" content="TANQUES PRECARGADOS PARA SISTEMAS HIDRONEUMÁTICOS">
 		<meta name="keywords" content="TANQUES, PRECARGADOS, SISTEMAS, HIDRONEUMÁTICOS">
@@ -7,7 +7,7 @@
  	</head>
  <body>
  <section id="container">
- 	<?php include("header.php"); ?>
+ 	<?php include("includes/header.php"); ?>
  	
  	<section id="ax" class="active">
  	<div class="cien">
@@ -52,5 +52,5 @@ de presión de precarga adecuada y rango de presión entre paro y arranque de la
 <p class="nota"><strong>NOTA:</strong> La entrega volumétrica puede variar por varias ambientales y condiciones del sistema, incluyendo temperatura y presión.</p>
  		<div class="clear"></div>
 	</section>
- 	<?php include("iframe.php"); ?> 
- 	<?php include("footer.php"); ?>
+ 	<?php include("includes/iframe.php"); ?> 
+ 	<?php include("includes/footer.php"); ?>
