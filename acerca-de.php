@@ -1,5 +1,5 @@
 <?php $active_page="nosotros"; ?>
-<?php include("head.php"); ?>
+<?php include("includes/head.php"); ?>
  		<title> Acerca de <?php echo "$nombre"?></title>
  		<meta name="description" content="<?php echo "$nombre"?> Empresa fundada en noviembre de 2009, y su giro consiste en diseñar, producir y distribuir al mayoreo sistemas y equipos de alta calidad y tecnología de punta para el manejo del agua.">
 		<meta name="keywords" content="empresa,colombiana,dedicada,diseñar, producir,distribuir,mayoreo, sistemas,equipos,alta calidad,agua, presencia, nacional, Colombia, republica, tecnología">
@@ -10,7 +10,7 @@
 
  <section id="container">
  
- 	<?php include("header.php"); ?>
+ 	<?php include("includes/header.php"); ?>
  	
  	<section id="acercade">
  		<h2 class="titulo">Acerca de Altamira Water Ltda.</h2>
@@ -56,5 +56,5 @@ la mejora continua.</li>
 	
 	</section>
  	
- 	<?php include("iframe.php"); ?>
- 	<?php include("footer.php"); ?>
+ 	<?php include("includes/iframe.php"); ?>
+ 	<?php include("includes/footer.php"); ?>
