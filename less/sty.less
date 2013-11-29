@@ -136,16 +136,6 @@ header{
 
 /* !Contenido */
 #container {
-	@media only screen and (min-width:@desktop){
-		width:@desktop;
-		margin: 0 auto;
-	}
-	@media only screen and (min-width: @base){
-		width:@base;
-	}
-	@media only screen and (min-width: @BigScreen){
-		width: 1105px;
-	}
 	/* iPads (portrait) ----------- */
 	@media only screen 
 	and (min-device-width : 768px) 
@@ -156,63 +146,20 @@ header{
 	}
 }
 
-#ax section {
-	&.p70,&.p30{
-		.inline-block;
-		@media only screen and (min-width: @mobile){
-			width: 100%;
-		}
-	}
-	@media only screen and (min-width: @tablet){
-		&.p70 {width: 61%;}
-		&.p30 {width: 30%;}
-	}
-}
-
-#ranimg {
-	@media only screen and (min-width: @desktop){
-		min-height: 480px;
-	}
-	@media only screen and (min-width: @base){
-		min-height: 595px;
-	}
-	@media only screen and (min-width: @BigScreen){
-		min-height: 660px;
-	}
-}
-
 #servicios img {
 	border: 4px solid @blanco;
 	&.right{float: right;}
 }
 
-#ax img.left{
-	.inline-block;
-}
-
-.table th{background:@rojo!important;}
-
-/* !Error 404 */
-.box {
-	@media only screen and (min-width: @base){
-		height: 315px;
-	}
-	@media only screen and (min-width: @BigScreen){
-		height: 372px;
-		
-	}
-}
-.cover_pan{
-	@media only screen and (min-width: @base){
-		height: 327px;
-	}
-	@media only screen and (min-width: @BigScreen){
-		height: 384px;
+#ax {
+	img.left{
+		.inline-block;
 	}
 }
 
-.table tr:nth-child(2n+1) {
-	background:lighten(@gris, 43%);
+.table {
+	th{background:@rojo!important;}
+	tr:nth-child(2n+1) {background:lighten(@gris, 43%);}
 }
 
 /* !Mapa */

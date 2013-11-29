@@ -49,23 +49,49 @@
 		 	<h2>Código de la bomba</h4>
 		 	<img src="images/codigo-sigma.gif" alt="Código de la bomba">
  		</section>
- 		<h2>DIMENSIONES</h2>
- 		<img src="images/sigma-dimensiones.gif" alt="Tabla de dimensiones" class="left m1em">
- 		<img src="images/sigma-dimvector.gif" alt="Dimensiones" class="left m1em">
- 		<h2>CURVAS DE RENDIMIENTO</h2>
- 		<img src="images/sigma-curvas.gif" alt="Curvas de rendimiento">
- 		<img src="images/sigma-espesificaciones.gif" alt="Especificaciones">
- 		<h2 class="left">DESPIECE SIGMA</h2>
- 		<img src="images/sigma54a.gif" alt="Sigma 54A" class="left m1em p30">
- 		<img src="images/sigma54a-tabla.gif" alt="Sigma 54A" class="left m1em">
- 		<img src="images/sigma110a.gif" alt="Sigma 110A" class="left m1em p30">
- 		<img src="images/sigma110a-tabla.gif" alt="Sigma 110A" class="left m1em">
- 		<img src="images/sigma155ax.gif" alt="Sigma 155AX" class="left m1em p30">
- 		<img src="images/sigma155ax-tabla.gif" alt="Sigma 155AX" class="left m1em mb9em">
-	 	<img src="images/sigma160a.gif" alt="Sigma 160A" class="left m1em p30">
-	 	<img src="images/sigma160a-tabla.gif" alt="Sigma 160A" class="left m1em">
- 		<img src="images/sigma300a.gif" alt="Sigma 300A" class="left m1em p30">
- 		<img src="images/sigma300a-tabla.gif" alt="Sigma 300A" class="left m1em">
+<h2>DIMENSIONES</h2>
+	 		<section class="doscol">
+		 		<img src="images/sigma-dimensiones.gif" alt="Tabla de dimensiones" class="m1em">
+	 		</section>
+	 		<section class="doscol">
+		 		<img src="images/sigma-dimvector.gif" alt="Dimensiones" class="m1em">
+	 		</section>
+		 		
+	 		<h2>CURVAS DE RENDIMIENTO</h2>
+	 		<img src="images/sigma-curvas.gif" alt="Curvas de rendimiento">
+	 		<img src="images/sigma-espesificaciones.gif" alt="Especificaciones">
+	 		
+	 		<h2 class="left">DESPIECE SIGMA</h2>
+	 		<section class="doscol">
+		 		<img src="images/sigma54a.gif" alt="Sigma 54A" class="m1em">
+	 		</section>
+	 		<section class="doscol">
+		 		<img src="images/sigma54a-tabla.gif" alt="Sigma 54A" class="m1em">
+	 		</section>
+	 		<section class="doscol">
+		 		<img src="images/sigma110a.gif" alt="Sigma 110A" class="m1em">
+	 		</section>
+	 		<section class="doscol">
+		 		<img src="images/sigma110a-tabla.gif" alt="Sigma 110A" class="m1em">
+	 		</section>
+	 		<section class="doscol">
+		 		<img src="images/sigma155ax.gif" alt="Sigma 155AX" class="m1em">
+	 		</section>
+	 		<section class="doscol">
+		 		<img src="images/sigma155ax-tabla.gif" alt="Sigma 155AX" class="m1em">
+	 		</section>
+	 		<section class="doscol">
+		 		<img src="images/sigma160a.gif" alt="Sigma 160A" class="m1em">
+	 		</section>
+	 		<section class="doscol">
+		 		<img src="images/sigma160a-tabla.gif" alt="Sigma 160A" class="m1em">
+	 		</section>
+	 		<section class="doscol">
+		 		<img src="images/sigma300a.gif" alt="Sigma 300A" class="m1em">
+	 		</section>
+	 		<section class="doscol">
+		 		<img src="images/sigma300a-tabla.gif" alt="Sigma 300A" class="m1em">
+	 		</section>
 		
 		<section class="p100">
 		<strong>Notas:</strong><br>

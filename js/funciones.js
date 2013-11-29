@@ -38,6 +38,7 @@ function inicio ()
    );
 }
 
+//Alto automatico en los iframes
 function calcHeight()
 {
 	 //Cojo la altura en nuestra página
