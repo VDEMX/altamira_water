@@ -132,7 +132,7 @@
 							<h3>Sigma</h3>
 							<span>Bombas sumergibles para achique</span>
 							<img src="images/logo-aquapak.png" alt="Aqua Pak">
-							<a class="boton" href="vde/sigma.html" target="contenido"><div class="icon icon-ojo"></div> Ver producto</a>
+							<a href="/sigma"><div class="icon icon-ojo"></div> Ver producto</a>
 						</figcaption>
 					</figure>
 				</li>
@@ -143,7 +143,7 @@
 							<h3>Silver</h3>
 							<span>Bombas para recircular en piscinas</span>
 							<img src="images/logo-aquapak.png" alt="Aqua Pak">
-							<a class="boton" href="vde/silver.html" target="contenido"><div class="icon icon-ojo"></div> Ver producto</a>
+							<a href="/silver"><div class="icon icon-ojo"></div> Ver producto</a>
 						</figcaption>
 					</figure>
 				</li>

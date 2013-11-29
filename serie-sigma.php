@@ -62,10 +62,8 @@
  		<img src="images/sigma110a-tabla.gif" alt="Sigma 110A" class="left m1em">
  		<img src="images/sigma155ax.gif" alt="Sigma 155AX" class="left m1em p30">
  		<img src="images/sigma155ax-tabla.gif" alt="Sigma 155AX" class="left m1em mb9em">
- 		<section class="p100">
-	 		<img src="images/sigma160a.gif" alt="Sigma 160A" class="left m1em p30">
-	 		<img src="images/sigma160a-tabla.gif" alt="Sigma 160A" class="left m1em">
- 		</section>
+	 	<img src="images/sigma160a.gif" alt="Sigma 160A" class="left m1em p30">
+	 	<img src="images/sigma160a-tabla.gif" alt="Sigma 160A" class="left m1em">
  		<img src="images/sigma300a.gif" alt="Sigma 300A" class="left m1em p30">
  		<img src="images/sigma300a-tabla.gif" alt="Sigma 300A" class="left m1em">
 		
