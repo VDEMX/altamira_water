@@ -12,7 +12,7 @@ function inicio ()
 		//agregar la clase .active al boton al que hicimos click:
 		$(this).addClass("active");
 		//esconder el mapa
-		$("#ranimg, #Table_01, #productos-nuevos, #contacto, #acercade, #ax, #servicios, #map, #federatas").hide();
+		$("#ranimg, #Table_01, #productos-nuevos, #contacto, #acercade, #ax, #servicios, #map, #federatas, #e404").hide();
 		$("#iframe").show();
 	});
 	//acordión del menú táctil

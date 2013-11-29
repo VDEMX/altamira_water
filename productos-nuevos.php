@@ -66,7 +66,7 @@
 							<h3>Pro-X (100 psi)</h3>
 							<span>Tanques precargados para sistemas hidroneumáticos</span>
 							<img src="images/logo-altamira.png" alt="Altamira">
-							<a class="boton" href="vde/pro-x.html" target="contenido"><div class="icon icon-ojo"></div> Ver producto</a>
+							<a href="/prox"><div class="icon icon-ojo"></div> Ver producto</a>
 						</figcaption>
 					</figure>
 				</li>
@@ -77,7 +77,7 @@
 							<h3>Pro-XL (125 psi)</h3>
 							<span>Tanques precargados para sistemas hidroneumáticos</span>
 							<img src="images/logo-altamira.png" alt="Altamira">
-							<a class="boton" href="vde/pro-xl.html" target="contenido"><div class="icon icon-ojo"></div> Ver producto</a>
+							<a href="/proxl"><div class="icon icon-ojo"></div> Ver producto</a>
 						</figcaption>
 					</figure>
 				</li>
