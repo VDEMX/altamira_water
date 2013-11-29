@@ -57,6 +57,7 @@ RewriteRule  ^prox$ /tanques-prox.php [QSA,L]
 RewriteRule  ^proxl$ /tanques-proxl.php [QSA,L]
 RewriteRule  ^tubos$ /tubos-columna.php [QSA,L]
 RewriteRule  ^flotador$ /switch-flotador.php [QSA,L]
+RewriteRule  ^supra$ /serie-supra.php [QSA,L]
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f

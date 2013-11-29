@@ -121,7 +121,7 @@
 							<h3>Supra</h3>
 							<span>Bombas para recircular en piscinas</span>
 							<img src="images/logo-aquapak.png" alt="Aqua Pak">
-							<a class="boton" href="vde/supra.html" target="contenido"><div class="icon icon-ojo"></div> Ver producto</a>
+							<a href="/supra"><div class="icon icon-ojo"></div> Ver producto</a>
 						</figcaption>
 					</figure>
 				</li>
