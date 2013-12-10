@@ -24,12 +24,7 @@ function inicio ()
         responseDiv : '#respuesta',
         allBrowsers: true,  
     });
-     //Simular el evento hover al hacer click en pantallas táctiles
-    var myLinks = document.getElementsByTagName('a');
-	for(var i = 0; i < myLinks.length; i++){
-	   myLinks[i].addEventListener('touchstart', function(){this.className = "hover";}, false);
-	   myLinks[i].addEventListener('touchend', function(){this.className = "";}, false);
-	}
+     //cerrar el aviso
      $('.vbox-close').click(
       function ocultar()
       {

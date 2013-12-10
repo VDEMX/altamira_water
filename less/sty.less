@@ -149,11 +149,30 @@ header{
 #servicios img {
 	border: 4px solid @blanco;
 	&.right{float: right;}
+	p {display: inline;}
 }
 
 #ax {
 	img.left{
 		.inline-block;
+	}
+	.p70, .p30{.inline-block;padding:0;}
+	.p70{
+		@media only screen and (min-width: @mobile){
+			.p100;
+		}
+		@media only screen and (min-width: @tablet){
+			width: 70%;
+		}
+	}
+	.p30{
+		@media only screen and (min-width: @mobile){
+			.p100;
+		}
+		@media only screen and (min-width: @tablet){
+			width: 27%;
+			padding: 0 1%;
+		}
 	}
 }
 
